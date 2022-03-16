@@ -1,5 +1,6 @@
 package questions;
-
+// Sieve of eratosthenes
+//Time Complexity - N*log(logN)
 public class Seive {
     public static void main(String[] args){
      int n = 1000;
