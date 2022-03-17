@@ -1,6 +1,7 @@
 package questions;
 
 public class Sqrt {
+    // Find the sqrt of  a number
     public static void main(String[]  args){
         int n = 40;
         int  d = 3;
