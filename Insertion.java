@@ -3,6 +3,7 @@ import java.util.*;
 import java.io.*;
 public class Insertion {
     public static void main(String[] args){
+        //Insertion sort 
         Scanner ss = new Scanner(System.in);
         int n = 5;
         int[] a = {8, 2, 4, 1 ,3};
