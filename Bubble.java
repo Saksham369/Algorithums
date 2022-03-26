@@ -1,7 +1,7 @@
 package com.sort.merge;
 
 import java.util.*;
-
+//Bubble Sort
 public class Bubble {
     public static void main(String[] args) {
         Scanner ss = new Scanner(System.in);
